@@ -1,6 +1,4 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using LukeSkywalker.IPNetwork;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Net;
 
 namespace LukeSkywalker.IPNetwork.Test

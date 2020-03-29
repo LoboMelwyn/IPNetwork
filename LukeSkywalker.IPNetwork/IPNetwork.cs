@@ -1,13 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Net;
-using System.Net.Sockets;
 using System.Text.RegularExpressions;
-using System.Collections;
 using System.IO;
 
-namespace LukeSkywalker.IPNetwork {
+namespace LukeSkywalker.IPNetwork
+{
     /// <summary>
     /// IP Network utility class. 
     /// Use IPNetwork.Parse to create instances.

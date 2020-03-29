@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Net;
 using System.Collections;
 
-namespace LukeSkywalker.IPNetwork {
+namespace LukeSkywalker.IPNetwork
+{
     public class IPAddressCollection : IEnumerable<IPAddress>, IEnumerator<IPAddress> {
 
         private IPNetwork _ipnetwork;
