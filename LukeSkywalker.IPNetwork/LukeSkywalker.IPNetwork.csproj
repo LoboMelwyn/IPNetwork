@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>IPNetwork</PackageId>
+    <Version>2.1.0</Version>
     <RepositoryUrl>https://github.com/lobomelwyn/ipnetwork</RepositoryUrl>
   </PropertyGroup>
 
